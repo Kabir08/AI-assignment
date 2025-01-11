@@ -1,0 +1,8 @@
+Q: What is average screentime?
+A: Based on the provided context, the average screen time for Instagram is 78.67 minutes. I don't have information about other apps or an overall average. The calculation for Instagram is (90+109+37) minutes / 3 days.
+
+Q: Which app has the highest usage?
+A: Based on the provided context, WhatsApp has the highest usage. The highest recorded usage for WhatsApp is 59 minutes on 2024-08-18.
+
+Q: What is the total screentime across all apps?
+A: The total screentime across all apps is 154 minutes. This is calculated by adding the usage minutes from each entry: 30 + 40 + 45 + 39.
